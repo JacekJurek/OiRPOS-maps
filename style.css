@@ -1,0 +1,34 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+#mapid {
+  height: 400px;
+  width: 600px;
+}
+
+form.example input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  width: 600px;
+  border: 1px solid grey;
+  float: left;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 600px;
+  padding: 10px;
+  background: #2196f3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
